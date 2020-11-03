@@ -1,0 +1,20 @@
+.addItemForm label {
+  display: block;
+}
+
+.addItemForm input {
+  padding: 8px 5px;
+  border-radius: 4px;
+  border: 1px solid #333;
+  display: block;
+  margin: 10px 0;
+}
+
+.addItemForm button {
+  appearance: none;
+  background: lightcoral;
+  border: 1px solid lightcoral;
+  border-radius: 4px;
+  color: #fff;
+  padding: 10px 20px;
+}
